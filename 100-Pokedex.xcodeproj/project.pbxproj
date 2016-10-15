@@ -12,6 +12,7 @@
 		D30EEC4B1DB1DB3400B20663 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30EEC491DB1DB3400B20663 /* Main.storyboard */; };
 		D30EEC4D1DB1DB3400B20663 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D30EEC4C1DB1DB3400B20663 /* Assets.xcassets */; };
 		D30EEC501DB1DB3400B20663 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D30EEC4E1DB1DB3400B20663 /* LaunchScreen.storyboard */; };
+		D3B226561DB1E644006CE620 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = D3B226551DB1E644006CE620 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D30EEC4C1DB1DB3400B20663 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D30EEC4F1DB1DB3400B20663 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D30EEC511DB1DB3500B20663 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3B226551DB1E644006CE620 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				D30EEC471DB1DB3400B20663 /* ViewController.swift */,
 				D30EEC491DB1DB3400B20663 /* Main.storyboard */,
 				D30EEC4C1DB1DB3400B20663 /* Assets.xcassets */,
+				D3B226551DB1E644006CE620 /* pokemon.csv */,
 				D30EEC4E1DB1DB3400B20663 /* LaunchScreen.storyboard */,
 				D30EEC511DB1DB3500B20663 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				D30EEC501DB1DB3400B20663 /* LaunchScreen.storyboard in Resources */,
 				D30EEC4D1DB1DB3400B20663 /* Assets.xcassets in Resources */,
+				D3B226561DB1E644006CE620 /* pokemon.csv in Resources */,
 				D30EEC4B1DB1DB3400B20663 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				D30EEC561DB1DB3500B20663 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
